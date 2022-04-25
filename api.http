@@ -1,0 +1,37 @@
+#
+POST http://localhost:8080/v1/users/register
+Content-Type: application/json
+
+{
+    "username": "Quytp4@gmail.com",
+    "password": "Nege@123"
+}
+
+###
+POST http://localhost:8080/v1/users/login
+Content-Type: application/json
+
+{
+    "username": "Quytp2@gmail.com",
+    "password": "Nege@123"
+}
+
+###
+GET http://localhost:8080/v1/users/list
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MjYyMjQxNmY2ZDljNDFmMGI2ZDIxYmMiLCJpYXQiOjE2NTA4NzQ4NTMsImV4cCI6MTY1MDg3NDkxM30.p3VZEIJA_3NwvCZX4RpOyaDCKhI4bEwTD3n-5BpGZJs
+
+###
+POST http://localhost:8080/v1/users/refresh-token
+Content-Type: application/json
+
+{
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MjYyMjQxNmY2ZDljNDFmMGI2ZDIxYmMiLCJpYXQiOjE2NTA2MTc4NzksImV4cCI6MTY4MjE3NTQ3OX0.3-XZRc5dZGfzwXfdMlF1v_B_SjZe4z7paPxxmqEXex4"
+}
+
+###
+DELETE http://localhost:8080/v1/users/logout
+Content-Type: application/json
+
+{
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MjYyMjQxNmY2ZDljNDFmMGI2ZDIxYmMiLCJpYXQiOjE2NTA2MTgzNTksImV4cCI6MTY4MjE3NTk1OX0.K_zT6UEjkU-VlmIRYnj9y81D-feyBcicy4BqV8MnQ4E"
+}

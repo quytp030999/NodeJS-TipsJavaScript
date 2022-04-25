@@ -1,0 +1,71 @@
+as is not defined21-04-2022	02:16:17 ----- as is not defined21-04-2022	44:16:17 ----- as is not defined
+21-04-2022	18:17:17 ----- as is not defined
+21-04-2022	22:17:17 ----- as is not defined
+21-04-2022	22:17:17 ----- as is not defined
+21-04-2022	22:17:17 ----- as is not defined
+21-04-2022	22:17:17 ----- as is not defined
+21-04-2022	22:17:17 ----- as is not defined
+21-04-2022	23:17:17 ----- as is not defined
+21-04-2022	08:19:17 ----- /v1/users ----- GET ----- as is not defined
+22-04-2022	49:01:10 ----- /v1s/users/register ----- POST ----- Not Found
+22-04-2022	49:01:10 ----- /v1s/users/register ----- POST ----- Not Found
+22-04-2022	54:01:10 ----- /v1/users/register ----- POST ----- Quytp@gmail.com is ready been register
+22-04-2022	11:15:10 ----- /v1/users/register ----- POST ----- body is not defined
+22-04-2022	01:16:10 ----- /v1/users/register ----- POST ----- body is not defined
+22-04-2022	02:16:10 ----- /v1/users/register ----- POST ----- body is not defined
+22-04-2022	02:16:10 ----- /v1/users/register ----- POST ----- body is not defined
+22-04-2022	03:16:10 ----- /v1/users/register ----- POST ----- body is not defined
+22-04-2022	24:16:10 ----- /v1/users/register ----- POST ----- body is not defined
+22-04-2022	27:16:10 ----- /v1/users/register ----- POST ----- body is not defined
+22-04-2022	29:16:10 ----- /v1/users/register ----- POST ----- body is not defined
+22-04-2022	59:16:10 ----- /v1/users/register ----- POST ----- Quytp@gmail.com is ready been register
+22-04-2022	05:17:10 ----- /v1/users/register ----- POST ----- "username" is required
+22-04-2022	21:17:10 ----- /v1/users/register ----- POST ----- Unexpected token } in JSON at position 37
+22-04-2022	35:17:10 ----- /v1/users/register ----- POST ----- "password" is required
+22-04-2022	39:17:10 ----- /v1/users/register ----- POST ----- Quytp@gmail.com is ready been register
+22-04-2022	21:30:10 ----- /v1/users/register ----- POST ----- Quytp@gmail.com is ready been register
+22-04-2022	16:32:10 ----- /v1/users/register ----- POST ----- username is not defined
+22-04-2022	00:35:10 ----- /v1/users/register ----- POST ----- username is not defined
+22-04-2022	02:35:10 ----- /v1/users/register ----- POST ----- username is not defined
+22-04-2022	03:35:10 ----- /v1/users/register ----- POST ----- username is not defined
+22-04-2022	22:51:10 ----- /v1/users/login ----- POST ----- Quytp2s@gmail.com Not Found
+22-04-2022	39:57:10 ----- /v1/users/login ----- POST ----- Unauthorized
+22-04-2022	10:07:11 ----- /v1/users/login ----- POST ----- Expected "payload" to be a plain object.
+22-04-2022	23:21:11 ----- /v1/users/list ----- GET ----- Cannot destructure property 'authorization' of 'req.headers.authorization' as it is undefined.
+22-04-2022	45:21:11 ----- /v1/users/list ----- GET ----- Unauthorized
+22-04-2022	35:27:11 ----- /v1/users/list ----- GET ----- Unauthorized
+22-04-2022	14:29:11 ----- /v1/users/list ----- GET ----- Unauthorized
+22-04-2022	53:34:14 ----- /v1/users/list ----- GET ----- jwt expired
+22-04-2022	04:12:15 ----- /v1/users/refresh-token ----- POST ----- Bad Request
+22-04-2022	47:38:15 ----- /v1/users/list ----- GET ----- jwt expired
+22-04-2022	04:39:15 ----- /v1/users/list ----- GET ----- jwt expired
+22-04-2022	06:39:15 ----- /v1/users/list ----- GET ----- jwt expired
+22-04-2022	07:39:15 ----- /v1/users/list ----- GET ----- jwt expired
+22-04-2022	07:39:15 ----- /v1/users/list ----- GET ----- jwt expired
+22-04-2022	08:39:15 ----- /v1/users/list ----- GET ----- jwt expired
+22-04-2022	08:39:15 ----- /v1/users/list ----- GET ----- jwt expired
+22-04-2022	00:41:15 ----- /v1/users/list ----- GET ----- jwt expired
+22-04-2022	41:00:16 ----- /v1/users/list ----- GET ----- jwt expired
+22-04-2022	44:00:16 ----- /v1/users/list ----- GET ----- jwt expired
+22-04-2022	41:05:16 ----- /v1/users/list ----- GET ----- jwt expired
+22-04-2022	07:07:16 ----- /v1/users/refresh-token ----- POST ----- invalid token
+22-04-2022	32:09:16 ----- /v1/users/logout ----- DELETE ----- Not Found
+22-04-2022	32:09:16 ----- /v1/users/logout ----- DELETE ----- Not Found
+22-04-2022	17:14:16 ----- /v1/users/logout ----- DELETE ----- Unauthorized
+22-04-2022	53:25:16 ----- /v1/users/register ----- POST ----- Quytp2@gmail.com is ready been register
+22-04-2022	04:26:16 ----- /v1/users/login ----- POST ----- Bad Request
+22-04-2022	34:27:16 ----- /v1/users/list ----- GET ----- jwt expired
+22-04-2022	14:29:16 ----- /v1/users/register ----- POST ----- Quytp3@gmail.com is ready been register
+22-04-2022	06:31:16 ----- /v1/users/logout ----- DELETE ----- Unauthorized
+22-04-2022	12:31:16 ----- /v1/users/refresh-token ----- POST ----- Unauthorized
+25-04-2022	03:09:09 ----- /v1/users/list ----- GET ----- jwt expired
+25-04-2022	30:15:15 ----- /v1/users/list ----- GET ----- jwt expired
+25-04-2022	33:15:15 ----- /v1/users/list ----- GET ----- jwt expired
+25-04-2022	36:15:15 ----- /v1/users/list ----- GET ----- jwt expired
+25-04-2022	46:20:15 ----- /v1/users/list ----- GET ----- Unauthorized
+25-04-2022	06:21:15 ----- /v1/users/list ----- GET ----- Unauthorized
+25-04-2022	08:21:15 ----- /v1/users/list ----- GET ----- Unauthorized
+25-04-2022	09:21:15 ----- /v1/users/list ----- GET ----- Unauthorized
+25-04-2022	09:21:15 ----- /v1/users/list ----- GET ----- Unauthorized
+25-04-2022	09:21:15 ----- /v1/users/list ----- GET ----- Unauthorized
+25-04-2022	09:21:15 ----- /v1/users/list ----- GET ----- Unauthorized
